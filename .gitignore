@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local config (your saved folder paths)
+video-sorter.json
+
+# Videos (never commit media)
+*.mp4
+*.webm
+*.mkv
+*.mov
+*.m4v
+*.ogv
+*.avi
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
